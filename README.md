@@ -54,6 +54,10 @@ end
 endmodule
 
 ```
+Developed By : Vikaskumar M
+
+RegisterNumber: 24900247
+
 **RTL LOGIC FOR FLIPFLOPS**
 
 ![exp10](https://github.com/user-attachments/assets/78407760-9cad-4eae-b406-914d754f2c37)
